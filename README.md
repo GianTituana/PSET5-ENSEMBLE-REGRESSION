@@ -281,7 +281,7 @@ Capado de cardinalidad de pu_location_id (IDs > 265 agrupados).
 
 Split temporal fijo:
 
-Train (≤ 2022)
+Train (2022)
 
 Validación (2023)
 
